@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lua image path\n"
+"POT-Creation-Date: 2018-01-23 20:33+0100\n"
+"PO-Revision-Date: 2018-01-23 21:32+0100\n"
+"Last-Translator: Holger Klemm\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: slideshowexport.lua:10
+msgid "title sequence options"
+msgstr "Titel Sequenz-Optionen"
+
+#: slideshowexport.lua:10
+msgid "extra long black frame"
+msgstr "Extra langes Schwarzbild"
+
+#: slideshowexport.lua:10
+msgid "Some A/V devices have a long switching time and the title may not be displayed. This feature inserts a long black section befor the title sequence, allowing you to display the title."
+msgstr "Einige A/V Geräte haben eine lange Umschaltzeit und die Titel wird nicht angezeigt. Die Option fügt vor dem Titel ein längeres Schwarzbild ein, dass die Anzeige vom Titel ermöglicht."
+
+#: slideshowexport.lua:10
+msgid "slideshow title:"
+msgstr "Diashow Titel:"
+
+#: slideshowexport.lua:10
+msgid "enter the slideshow title"
+msgstr "Geben Sie den Titel ein"
+
+#: slideshowexport.lua:10
+msgid "enter your slideshow title"
+msgstr "Geben Sie Ihren Diashowtitel ein"
+
+#: slideshowexport.lua:10
+msgid "slideshow subtitle:"
+msgstr "Diashow Untertitel:"
+
+
+#: slideshowexport.lua:10
+msgid "enter your slideshow subtitle"
+msgstr "Geben Sie optional den Untertitel ein"
+
+#: slideshowexport.lua:10
+msgid "title font size"
+msgstr "Schriftgröße Titel"
+
+#: slideshowexport.lua:10
+msgid "sets the font size of the title"
+msgstr "Setzt die Schriftgröße vom Titel"
+
+#: slideshowexport.lua:10
+msgid "title sequence time"
+msgstr "Anzeigedauer Titel"
+
+#: slideshowexport.lua:10
+msgid "sets the display duration of the title"
+msgstr "Setzt die Anzeigedauer vom Titel"
+
+#: slideshowexport.lua:10
+msgid "slideshow options"
+msgstr "Diashow-Optionen"
+
+#: slideshowexport.lua:10
+msgid "image display time"
+msgstr "Anzeigedauer Bild"
+
+#: slideshowexport.lua:10
+msgid "sets the display duration of the image"
+msgstr "Setzt die Anzeigedauer vom Bild"
+
+#: slideshowexport.lua:10
+msgid "crossfade time"
+msgstr "Überblenddauer"
+
+#: slideshowexport.lua:10
+msgid "sets the crossfade duration of the image"
+msgstr "Setzt die Überblenddauer von den Bildern"
+
+#: slideshowexport.lua:10
+msgid "closing credit options"
+msgstr "Abspann-Optionen"
+
+#: slideshowexport.lua:10
+msgid "copyright:"
+msgstr "Copyright:"
+
+#: slideshowexport.lua:10
+msgid "YYYY - Author"
+msgstr "YYYY - Author"
+
+#: slideshowexport.lua:10
+msgid "enter you the copyright information in the following form (YYYY - Author)"
+msgstr "Geben Sie die Copyrightinformationen wie folgt ein (YYYY - Author)"
+
+#: slideshowexport.lua:10
+msgid "copyright font size"
+msgstr "Schriftgröße Copyright"
+
+#: slideshowexport.lua:10
+msgid "sets the font size of the copyright"
+msgstr "Setzt die Schriftgröße für den Copyrighttext"
+
+#: slideshowexport.lua:10
+msgid "video options"
+msgstr "Video-Optionen"
+
+#: slideshowexport.lua:10
+msgid "bit rate"
+msgstr "Bit Rate"
+
+#: slideshowexport.lua:10
+msgid "sets the video quality\nhigh quality = 20000k\nlow quality = 5000k\ndefault quality = 10000k"
+msgstr "Setzt die Videoqualität\nHohe Qualität = 20000k\nNiedrige Qualität = 5000k\nStandard Qualität = 10000k"
+
+#: slideshowexport.lua:10
+msgid "video quality"
+msgstr "Video Qualität"
+
+#: slideshowexport.lua:10
+msgid "sets the video quality\nhigh quality = 1\nlow quality = 31\ndefault quality = 5"
+msgstr "Setzt die Videoqualität\nHohe Qualität = 1\nNiedrige Qualität = 31\nStandard Qualität = 5"
+
+
+#: slideshowexport.lua:10
+msgid "format"
+msgstr "Format"
+
+#: slideshowexport.lua:10
+msgid "sets the video container / video codec"
+msgstr "Setzt den Videocontainer / Video Codec"
+
+#: slideshowexport.lua:10
+msgid "resolution"
+msgstr "Auflösung"
+
+#: slideshowexport.lua:10
+msgid "sets the video resolution"
+msgstr "Setzt die Videoauflösung"
+
+
+#: slideshowexport.lua:10
+msgid "frame rate"
+msgstr "Bildwiederholungsrate"
+
+#: slideshowexport.lua:10
+msgid "sets the video frame rate"
+msgstr "Setzt die Bildwiederholungsrate"
+
+#: slideshowexport.lua:10
+msgid "target video"
+msgstr "Speicherziel"
+
+#: slideshowexport.lua:10
+msgid "select target directory"
+msgstr "Wählen Sie das Speicherziel"
+
+
+#: slideshowexport.lua:10
+msgid "select the target storage for the output video."
+msgstr "Wählen Sie den Speicherort für das Video aus"
+
+#: slideshowexport.lua:10
+msgid "filename without suffix"
+msgstr "Dateiname ohne Endung"
+
+#: slideshowexport.lua:10
+msgid "enter the target video filename without suffix"
+msgstr "Geben Sie den Videodateinamen ohne Endung an"
+
+#: slideshowexport.lua:10
+msgid "video information"
+msgstr "Video Information"
+
+#: slideshowexport.lua:10
+msgid "selected images:\t\t\t\t"
+msgstr "Ausgewählte Bilder:\t\t\t\t"
+
+#: slideshowexport.lua:10
+msgid "calculated play time:\t\t\t\t"
+msgstr "Berechnete Spielzeit:\t\t\t\t"
+
+#: slideshowexport.lua:10
+msgid "calculate playtime"
+msgstr "Spielzeit berechnen"
+
+
+#: slideshowexport.lua:10
+msgid "calculate the slideshow playtime"
+msgstr "Berechnet die Diashow Spielzeit"
+
+
+#: slideshowexport.lua:10
+msgid "export PNG images for slideshow video "
+msgstr "Exportiere PNG Bilder für Diashow Video "
+
+#: slideshowexport.lua:10
+msgid "export "
+msgstr "Exportiere "
+
+#: slideshowexport.lua:10
+msgid " PNG images to "
+msgstr " PNG Bild nach "
+
+#: slideshowexport.lua:10
+msgid "creating slideshow video"
+msgstr "Diashow Video erstellen"
+
+#: slideshowexport.lua:10
+msgid "ERROR: convert not found. please install imagemagick."
+msgstr "ERROR: convert nicht gefunden. Bitte imagemagick installieren."
+
+#: slideshowexport.lua:10
+msgid "convert not found. please install imagemagick."
+msgstr "convert nicht gefunden. Bitte imagemagick installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: identify not found. please install imagemagick."
+msgstr "ERROR: identify nicht gefunden. Bitte imagemagick installieren"
+
+#: slideshowexport.lua:10
+msgid "identify not found. please install imagemagick."
+msgstr "identify nicht gefunden. Bitte imagemagick installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: date not found. please install the core utilities."
+msgstr "ERROR: date nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "date not found. please install core utilities."
+msgstr "date nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: cut not found. please install the core utilities."
+msgstr "ERROR: cut nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "cut not found. please install core utilities."
+msgstr "cut nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: tr not found. please install the core utilities."
+msgstr "ERROR: tr nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "tr not found. please install the core utilities."
+msgstr "tr nicht gefunden. Bitte core utilities installieren."
+
+
+#: slideshowexport.lua:10
+msgid "ERROR: mv not found. please install the core utilities."
+msgstr "ERROR: mv nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "mv not found. please install core utilities."
+msgstr "mv nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: rm not found. please install the core utilities."
+msgstr "ERROR: rm nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "rm not found. please install core utilities."
+msgstr "rm nicht gefunden. Bitte core utilities installieren."
+
+#: slideshowexport.lua:10
+msgid "ERROR: melt not found. please install melt and mlt with ffmpeg or libav support."
+msgstr "ERROR: melt nicht gefunden. Bitte melt mit ffmpeg oder libav Unterstützung installieren"
+
+#: slideshowexport.lua:10
+msgid "melt not found. please install melt and mlt with ffmpeg or libav support."
+msgstr "melt nicht gefunden. Bitte melt mit ffmpeg oder libav Unterstützung installieren"
+
+#: slideshowexport.lua:10
+msgid "ERROR: libx264 not found. please install libx264."
+msgstr "ERROR: libx264 nicht gefunden. Bitte libx264 installieren"
+
+#: slideshowexport.lua:10
+msgid "libx264 not found. please install libx264"
+msgstr "libx264 nicht gefunden. Bitte libx264 installieren"
+
+#: slideshowexport.lua:10
+msgid "ERROR: libx265 not found. please install libx265."
+msgstr "ERROR: libx265 nicht gefunden. Bitte libx264 installieren"
+
+#: slideshowexport.lua:10
+msgid "libx265 not found. please install libx265"
+msgstr "libx265 nicht gefunden. Bitte libx264 installieren"
+
+#: slideshowexport.lua:10
+msgid "ERROR: mpeg2 support not found. please install ffmpeg with mpeg2 support."
+msgstr "ERROR: mpeg2 Unterstützung nicht gefunden. Bitte ffmpeg / libav mit MPEG2 Codec installieren"
+
+#: slideshowexport.lua:10
+msgid "mpeg2 support not found. please install ffmpeg with mpeg2 support."
+msgstr "mpeg2 Unterstützung nicht gefunden. Bitte ffmpeg / libav mit MPEG2 Codec installieren"
+
+#: slideshowexport.lua:10
+msgid "ERROR: mpeg4 part2 support not found. please install ffmpeg with mpeg4 support."
+msgstr "ERROR: mpeg4 part 2 Unterstützung nicht gefunden. Bitte ffmpeg/libav mit MPEG4 Codec installieren"
+
+#: slideshowexport.lua:10
+msgid "sort and rename the images..."
+msgstr "Sortieren und umbennen der Bilder..."
+
+#: slideshowexport.lua:10
+msgid "ERROR: not enough pictures selected. please select one or more images\nfor the slideshow."
+msgstr "ERROR: Nicht genügend Bilder ausgewählt. Bitte wählen Sie ein oder mehrere Bilder aus"
+
+#: slideshowexport.lua:10
+msgid "you have selected more then 50 images. the slideshow process could take a very long time! \nhave a nice beake."
+msgstr "Sie haben mehr als 50 Bilder ausgewählt. Die Erstellung der Diashow kann länger dauern!\nMachen Sie eine kurze Pause."
+
+#: slideshowexport.lua:10
+msgid "ERROR: Can't move exported images to "
+msgstr "ERROR: Die exportierten Bilder können nicht verschoben werden nach "
+
+#: slideshowexport.lua:10
+msgid "ERROR: no title found. please enter the title."
+msgstr "ERROR: Keinen Titeltext gefunden. Bitte den Titel eingeben."
+
+#: slideshowexport.lua:10
+msgid "ERROR: no copyright found. please enter the copyright information."
+msgstr "ERROR: Keinen Copyrighttext gefunden. Bitte die Copyright Informationen eingeben."
+
+#: slideshowexport.lua:10
+msgid "ERROR: no target directory found. please select the target directory."
+msgstr "ERROR: Kein Speicherziel angegeben. Bitte das Speicherziel auswählen."
+
+#: slideshowexport.lua:10
+msgid "ERROR: no filename found. please enter the video filename without suffix."
+msgstr "ERROR: Keinen Dateinamen gefunden. Bitte den Dateinamen ohne Endung an."
+
+#: slideshowexport.lua:10
+msgid "creating the video may take longer! please wait..."
+msgstr "Das Erstellen des Video kann länger dauern! Bitte warten..."
+
+#: slideshowexport.lua:10
+msgid "process successfully completed"
+msgstr "Prozess erfolgreich abgeschlossen"
+
+#: slideshowexport.lua:10
+msgid "ERROR: melt doesn't work. For more information see terminal output"
+msgstr "ERROR: melt funktioniert nicht. Für weitere Informationen siehe Konsolenausgabe"
+
+#: slideshowexport.lua:10
+msgid "ERROR: "
+msgstr "ERROR: "
+
+#: slideshowexport.lua:10
+msgid " not found. please check the player command."
+msgstr " nicht gefunden. Bitte das Player Kommando überprüfen"
+
+#: slideshowexport.lua:10
+msgid "ERROR: video playback not possible. please check if the video format is supported."
+msgstr "ERROR: Video Wiedergabe nicht möglich. Bitte prüfen, ob der Player den Codec unterstützt."
+
+#: slideshowexport.lua:10
+msgid "slideshow video"
+msgstr "Diashow Video"
+
+#: slideshowexport.lua:10
+msgid "slideshowexport: player command"
+msgstr "slideshow export: Player Kommando"
+
+#: slideshowexport.lua:10
+msgid "set the slideshow player command"
+msgstr "Set das Kommando zum Starten vom Diashowplayer"
+
+#: slideshowexport.lua:10
+msgid "slideshowexport: autostart slideshow playback"
+msgstr "slideshow export: Automatische Diashowwiedergabe"
+
+#: slideshowexport.lua:10
+msgid "this option enables automatic playback of the finished slideshow video"
+msgstr "Diese Option aktiviert die automatische Wiedergabe vom fertigen Video"
